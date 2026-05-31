@@ -1,0 +1,14 @@
+# VFX Folder Creator — Python Requirements
+# Install PySide6 (recommended) OR PySide2 (legacy)
+#
+# Option A — Modern (Python 3.8+):
+#   pip install PySide6
+#
+# Option B — Legacy (Python 3.5-3.10):
+#   pip install PySide2
+#
+# The application auto-detects which is available.
+
+# Uncomment the one you want to pin:
+# PySide6>=6.4.0
+# PySide2>=5.15.0
