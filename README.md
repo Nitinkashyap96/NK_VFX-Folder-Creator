@@ -61,6 +61,9 @@ Move vfx_folder_creator.py into your Nuke plugin path (for example, your ~/.nuke
 
 <img width="1568" height="908" alt="image" src="https://github.com/user-attachments/assets/e717a62a-accd-4efe-bf4a-b5815fe4f864" />
 
+<img width="1567" height="898" alt="image" src="https://github.com/user-attachments/assets/86349804-e4e8-4d18-8953-d94ed80919ef" />
+
+
 
 Windows: C:\Users\<Username>\.nuke\
 
